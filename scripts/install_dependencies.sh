@@ -1,2 +1,2 @@
 #!/bin/bash
-yum list | grep httpd
+yum install -y httpd
