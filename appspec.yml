@@ -24,7 +24,7 @@ hooks:
       runas: ec2-user
       
   landingPage:
-    include: false 
-    transitions:
+    'include: false 
+    transitions':
 
 
